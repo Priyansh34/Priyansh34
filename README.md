@@ -4,7 +4,8 @@
 
 ### 🛠️ Skills & Tools  
 - ☁️ AWS | 🌐 GCP | 🐳 Docker | 🔄 CI/CD | 🧩 Jenkins  
-- 🐙 Git & GitHub | 🐧 Linux | 🔐 IAM  
+- 🐙 Git & GitHub | 🐧 Linux | 🔐 IAM
+- ☕ Java | 🐹 Go (Golang) | 🐍 Python
 
 ### 📌 About Me  
 - 🔭 Passionate about Cloud, DevOps, and Automation  
